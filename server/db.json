@@ -1,0 +1,22 @@
+{
+    "notes":[
+        {
+            "id": 1,
+            "content": "CODING IS SWEET",
+            "date": "2022-12-02",
+            "important": true
+        },
+        {
+            "id": 2,
+            "content": "Browsers don't sweat",
+            "date": "2022-12-02",
+            "important": false
+        },
+        {
+            "id": 3,
+            "content": "We can post or GET data using HTTP methods",
+            "date": "2022-12-02",
+            "important": true 
+        }
+    ]
+}
