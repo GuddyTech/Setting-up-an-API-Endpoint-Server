@@ -1,1 +1,1 @@
-This API Endpoint was created for testing purpose. Thanks
+This API Endpoint was created for testing purpose only. Thanks
